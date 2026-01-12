@@ -1,6 +1,6 @@
 JOGO 2D FEITO NO CONSTRUCT - ASHVEIL
 
-O desenvolvimento deste projeto foi uma experiência de **grande aprendizado**, principalmente no que se refere à **lógica de programação**. Durante a criação do aplicativo, foram amplamente utilizados conceitos como **estruturas condicionais (`if` / `else`), tomadas de decisão, validações e organização do fluxo lógico da aplicação.
+O desenvolvimento deste projeto foi uma experiência de **grande aprendizado**, principalmente no que se refere à **lógica de programação**. Durante a criação do aplicativo, foram amplamente utilizados conceitos como estruturas condicionais (`if` / `else`), tomadas de decisão, validações e organização do fluxo lógico da aplicação.
 
 Ao longo do processo, enfrentei **dificuldades reais** na construção da lógica, o que exigiu bastante raciocínio, testes e tentativas até que as funcionalidades funcionassem corretamente. Essas dificuldades foram fundamentais para o meu crescimento, pois proporcionaram uma compreensão mais profunda de como pensar logicamente para resolver problemas.
 
