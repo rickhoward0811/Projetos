@@ -10,6 +10,6 @@ Essa experiência reforçou a importância da lógica de programação como base
 
 VIDEO DEMONSTRATIVO DO JOGO
 
-[Clique aqui para assistir à demonstração do aplicativo no YouTube](https://www.youtube.com/watch?v=sIJj_CBGd80)
+[Clique aqui para assistir à demonstração do jogo no YouTube](https://www.youtube.com/watch?v=sIJj_CBGd80)
 
 Este projeto foi criado com a finalidade de apresentação acadêmica na faculdade!
